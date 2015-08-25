@@ -1,0 +1,3 @@
+== Social Sharing Button Example App
+
+Social Sharing Button Example App.  See http://richonrails.com/articles/adding-social-sharing-buttons-to-your-rails-app for details.
